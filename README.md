@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishaantKrSingh)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’ve currently started learning coding from the harward CS50 course on Youtube
 - 🌱 I’m currently learning Data Structures from the same couse mentioned above.
 - 👯 I’m looking to collaborate on UI design projects if you have any.
