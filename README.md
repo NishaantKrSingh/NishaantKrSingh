@@ -1,9 +1,39 @@
-### Hi there 👋
-- 🔭 I’ve currently doing graduation in the field of Data Science.
-- 🌱 I’m currently learning Java Script and also trying to improve my code quality.
-- 👯 I’m looking to collaborate on UI design projects if you have any.
-- 🤔 I’m looking for help and guidence on entering this vast field of programming and open source.
-- 💬 Ask me about UI/ UX and any recommendations are also welcome.
-- 📫 Reach me on [Twitter](https://twitter.com/NishaantKrSingh)
-- ⚡ Fun fact: Sometimes you have to forget everything and re-learn stuff to achieve success and break the loop.
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Data Science<br>🎯 Goals: To become a good Data Scientist and a Backend Developer</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
